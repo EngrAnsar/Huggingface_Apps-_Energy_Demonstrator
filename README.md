@@ -60,7 +60,7 @@ cd energy-market-demo
 pip install -r requirements.txt
 streamlit run app.py
 
-
+```
 ## 👨‍💻 Author
 
 **Engr Ansar**  
