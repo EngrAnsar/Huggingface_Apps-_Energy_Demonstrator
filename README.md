@@ -59,3 +59,14 @@ cd energy-market-demo
 # Install dependencies
 pip install -r requirements.txt
 streamlit run app.py
+
+
+## 👨‍💻 Author
+
+**Engr Ansar**  
+🎓 PhD Researcher in Energy Engineering  
+🤖 AI & Energy Systems Researcher  
+⚡ Power Systems & Energy Market Enthusiast
+
+
+
